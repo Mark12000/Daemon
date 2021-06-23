@@ -79,7 +79,7 @@ In Mod Organizer
 
    ![](https://i.imgur.com/DVWcrVH.png)
 
-2. In the display section, change **iSizeW** and **iSizeH** to you resolution. For example mine is iSizeW=3440 and iSizeH=1440. For *1920x1080* it would be **iSizeW=1920** and **iSizeH=1080**
+2. In the **[Display]** section, change **iSizeW** and **iSizeH** to you resolution. For example mine is iSizeW=3440 and iSizeH=1440. For *1920x1080* it would be **iSizeW=1920** and **iSizeH=1080**
 
 3. Close the INI editor
 
