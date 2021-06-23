@@ -4,9 +4,7 @@ As this modlist will download hundreds of files, as normal with Wabbajack, it is
 
 
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-
+# Oblivion
 
 A clean Install with ALL DLC (Oblivion GOTY Deluxe Edition) is required! You can try with just the GOTY version, but you may have issues.
 
@@ -30,25 +28,34 @@ A clean Install with ALL DLC (Oblivion GOTY Deluxe Edition) is required! You can
 
 5. Launch Oblivion, then exit from the main menu.
 
-6. Install Daemon if it isn't already!
 
-7. ***ONLY DO THIS STEP IF YOU HAVE THE STEAM OR DISK OBLIVION INSTALL*** Go to the Daemon install location, navigate to Daemon\tools\Oblivion Ram Optimization and launch 4gb patch.exe
 
-8. Patch both the Oblivion.exe and Oblivion Launcher.exe in your Oblivion install location.
 
-9. Navigate to Daemon\mods\Unofficial Shivering Isles Patch
 
-10. Cut DLCShiveringIsles - Faces.bsa and paste to your Oblivion Data folder, for example (H:\SteamLibrary\steamapps\common\Oblivion\Data)
+# Downloading Wabbajack and installing Daemon
 
-11. Navigate to Daemon\tools\Oblivion BSA Decompressor and launch Oblivion BSA Decompressor.exe
+1. Head to [Wabbajack](https://www.wabbajack.org/#/) and download the Wabbajack program.
+2. Download the Daemon modlist install file [**here**](https://github.com/Mark12000/Daemon/releases/download/1.0/Daemon.wabbajack).
+3. Launch Wabbajack and click "Install from disk".
+4. Select the Daemon.wabbajack file.
+5. Choose where you want to install Daemon.
+6. Choose where you want to put the downloads, or keep it in the default location.
+7. Click install!
 
-12. Press decompress. If it doesn't automatically detect your Oblivion folder, browse to it manually in the program
 
-13. Cut DLCShiveringIsles - Faces.bsa back to the Daemon\mods\Unofficial Shivering Isles Patch folder
 
-14. Copy the files inside "Daemon\Game Folder Files" to your oblivion install folder (E.G H:\SteamLibrary\steamapps\common\Oblivion)
+# Important Steps!
 
-15. Start ModOrganizer.exe in the Daemon install folder
+ 1. Install Daemon if it isn't already!
+ 2. ***ONLY DO THIS STEP IF YOU HAVE THE STEAM OR DISK OBLIVION INSTALL*** Go to the Daemon install location, navigate to Daemon\tools\Oblivion Ram Optimization and launch 4gb patch.exe
+ 3. Patch both the Oblivion.exe and Oblivion Launcher.exe in your Oblivion install location.
+ 4. Navigate to Daemon\mods\Unofficial Shivering Isles Patch
+ 5. Cut DLCShiveringIsles - Faces.bsa and paste to your Oblivion Data folder, for example (H:\SteamLibrary\steamapps\common\Oblivion\Data)
+ 6. Navigate to Daemon\tools\Oblivion BSA Decompressor and launch Oblivion BSA Decompressor.exe
+ 7. Press decompress. If it doesn't automatically detect your Oblivion folder, browse to it manually in the program
+ 8. Cut DLCShiveringIsles - Faces.bsa back to the Daemon\mods\Unofficial Shivering Isles Patch folder
+ 9. Copy the files inside "Daemon\Game Folder Files" to your oblivion install folder (E.G H:\SteamLibrary\steamapps\common\Oblivion)
+ 10. Start ModOrganizer.exe in the Daemon install folder
 
 
 
@@ -56,7 +63,7 @@ ________________________________________________________________________________
 
 
 
-**<u>Choose your resolution</u>**
+**<u>Choosing your resolution</u>**
 
 In Mod Organizer
 
@@ -100,9 +107,9 @@ Great. Now all you have to do is
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+# I'M CRASHING AT STARTUP!
 
-
-**If you are getting crash at startup, or a blank screen**
+**If you are getting a crash at startup, or a blank screen**
 
 Download this Oblivion.ini. Replace the ini in Daemon\profiles\Daemon with this one.
 
@@ -118,4 +125,12 @@ ________________________________________________________________________________
 
 **<u>FAQ</u>**
 
-**It fails to download enbseries**. Download from [this link](http://enbdev.com/mod_tesoblivion_v0181.htm) and place in the "downloads" folder you set in Wabbajack.
+**It fails to download enbseries**. 
+
+Download from [this link](http://enbdev.com/mod_tesoblivion_v0181.htm) and place in the "downloads" folder you set in Wabbajack.
+
+
+
+**When I open a container or loot a body it takes everything!** 
+
+OK, don't panic! Change the open container button in the pause-options-mods-LOOT mod menu (Will have a green dot next to it). Change the open container button. (I changed mine to Q for opening containers)
