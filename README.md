@@ -1,3 +1,5 @@
+##Daemon
+
 As this modlist will download hundreds of files, as normal with Wabbajack, it is recommended to have a premium Nexus account to automate the downloading process from Nexus Mods.
 
 
@@ -104,7 +106,7 @@ ________________________________________________________________________________
 
 Download this Oblivion.ini. Replace the ini in Daemon\profiles\Daemon with this one.
 
-https://www.mediafire.com/file/6gwn9200ppoblvq/oblivion.ini/file
+https://www.mediafire.com/file/y75l5hwn7r2ksj6/oblivion%25282%2529.ini/file
 
 
 
