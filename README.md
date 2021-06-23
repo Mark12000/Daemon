@@ -1,6 +1,3 @@
-# Daemon
-
-
 As this modlist will download hundreds of files, as normal with Wabbajack, it is recommended to have a premium Nexus account to automate the downloading process from Nexus Mods.
 
 
@@ -63,9 +60,9 @@ In Mod Organizer
 
 1. Select the INI editor in MO2
 
-   ![image-20210612125809390](C:\Users\AUWOO\AppData\Roaming\Typora\typora-user-images\image-20210612125809390.png)
+   ![](https://i.imgur.com/DVWcrVH.png)
 
-2. In the display section, change **iSizeW** and **iSizeH** to you resolution. For example mine is iSizeW=3440 and iSizeH=1440. For 1920x1080 it would be iSizeW=1920 and iSizeH=1080
+2. In the display section, change **iSizeW** and **iSizeH** to you resolution. For example mine is iSizeW=3440 and iSizeH=1440. For *1920x1080* it would be **iSizeW=1920** and **iSizeH=1080**
 
 3. Close the INI editor
 
@@ -91,13 +88,11 @@ Great. Now all you have to do is
 
 1. In Mod Organizer select Oblivion in the program selection
 
-   ![image-20210612171525804](C:\Users\AUWOO\AppData\Roaming\Typora\typora-user-images\image-20210612171525804.png)
+   ![](https://i.imgur.com/SYG2QwU.png)
 
 2. Click **Run**
 
 3. Have fun!
-
-
 
 
 
