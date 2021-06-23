@@ -30,8 +30,6 @@ A clean Install with ALL DLC (Oblivion GOTY Deluxe Edition) is required! You can
 
 
 
-
-
 # Downloading Wabbajack and installing Daemon
 
 1. Head to [Wabbajack](https://www.wabbajack.org/#/) and download the Wabbajack program.
@@ -77,9 +75,13 @@ In Mod Organizer
 
 
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+# I'M CRASHING AT STARTUP!
 
+**If you are getting a crash at startup, or a blank screen**
 
+Download this Oblivion.ini. Replace the ini in Daemon\profiles\Daemon with this one.
+
+https://www.mediafire.com/file/y75l5hwn7r2ksj6/oblivion%25282%2529.ini/file
 
 **ULTRAWIDE SUPPORT**
 
@@ -102,22 +104,6 @@ Great. Now all you have to do is
 2. Click **Run**
 
 3. Have fun!
-
-
-
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-# I'M CRASHING AT STARTUP!
-
-**If you are getting a crash at startup, or a blank screen**
-
-Download this Oblivion.ini. Replace the ini in Daemon\profiles\Daemon with this one.
-
-https://www.mediafire.com/file/y75l5hwn7r2ksj6/oblivion%25282%2529.ini/file
-
-
-
-**Re-do your resolution changes if you need to replace this ini**
 
 
 
