@@ -1,4 +1,4 @@
-##Daemon
+# Daemon
 
 As this modlist will download hundreds of files, as normal with Wabbajack, it is recommended to have a premium Nexus account to automate the downloading process from Nexus Mods.
 
