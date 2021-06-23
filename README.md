@@ -110,9 +110,12 @@ https://www.mediafire.com/file/y75l5hwn7r2ksj6/oblivion%25282%2529.ini/file
 
 
 
+**Re-do your resolution changes if you need to replace this ini**
+
+
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **<u>FAQ</u>**
 
 **It fails to download enbseries**. Download from [this link](http://enbdev.com/mod_tesoblivion_v0181.htm) and place in the "downloads" folder you set in Wabbajack.
-
