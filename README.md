@@ -57,11 +57,21 @@ A clean Install with ALL DLC (Oblivion GOTY Deluxe Edition) is required! You can
 
 
 
+# I'M CRASHING AT STARTUP!
+
+**If you are getting a crash at startup, or a blank screen**
+
+Download this Oblivion.ini. Replace the ini in Daemon\profiles\Daemon with this one.
+
+https://www.mediafire.com/file/y75l5hwn7r2ksj6/oblivion%25282%2529.ini/file
+
+
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
-**<u>Choosing your resolution</u>**
+**<u>Changing your resolution</u>**
 
 In Mod Organizer
 
@@ -75,13 +85,9 @@ In Mod Organizer
 
 
 
-# I'M CRASHING AT STARTUP!
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**If you are getting a crash at startup, or a blank screen**
 
-Download this Oblivion.ini. Replace the ini in Daemon\profiles\Daemon with this one.
-
-https://www.mediafire.com/file/y75l5hwn7r2ksj6/oblivion%25282%2529.ini/file
 
 **ULTRAWIDE SUPPORT**
 
