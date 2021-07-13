@@ -33,7 +33,7 @@ A clean Install with ALL DLC (Oblivion GOTY Deluxe Edition) is required! You can
 # Downloading Wabbajack and installing Daemon
 
 1. Head to [Wabbajack](https://www.wabbajack.org/#/) and download the Wabbajack program.
-2. Download the Daemon modlist install file [**here**](https://github.com/Mark12000/Daemon/releases/download/1.0/Daemon.wabbajack).
+2. Download the Daemon modlist install file [**here**](https://github.com/Mark12000/Daemon/releases).
 3. Launch Wabbajack and click "Install from disk".
 4. Select the Daemon.wabbajack file.
 5. Choose where you want to install Daemon.
