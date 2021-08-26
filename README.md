@@ -6,7 +6,7 @@ As this modlist will download hundreds of files, as normal with Wabbajack, it is
 
 # Oblivion
 
-A clean Install with ALL DLC (Oblivion GOTY Deluxe Edition) is required! You can try with just the GOTY version, but you may have issues.
+A clean Install with ALL DLC (Oblivion GOTY **Deluxe Edition**) is required! You can try with just the GOTY version, but you may have issues.
 
  1. Install Oblivion OUTSIDE of program files! For example in H:\SteamLibrary\steamapps\common\Oblivion.
 
